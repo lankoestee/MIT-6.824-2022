@@ -8,6 +8,6 @@
 
 对于每个部分，都配有对应的详细的说明文档，对应博客网页如下。
 
-- [Lab2ABC](https://lankoestee.github.io/posts/9ddf1948/)
+- Lab2ABC: https://lankoestee.github.io/posts/9ddf1948/
 - Lab3 & Lab2D
 - Lab 4
